@@ -2,6 +2,6 @@
 <br />
 
 - Undergraduate @ SUSTech
-- Interest in Robotics | Generative Models | World Models
-- Feel free to connect me via zhukeyuabc[AT]gmail.com
+- Interested in Robotics | Generative Models | World Models
+- Feel free to connect me via zhukeyuabc[AT]gmail.com!
 
