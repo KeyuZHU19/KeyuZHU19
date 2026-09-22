@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <em>Exploring Embodied AI, Multimodal Learning, and Robotics.</em>
+  <em>Exploring Robot Learning, RL and Generative Models.</em>
 </p>
 
 <p align="center">
