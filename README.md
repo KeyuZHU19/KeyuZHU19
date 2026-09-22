@@ -23,5 +23,5 @@
 </p>
 
 <p align="center">
-  Computer Science @ SUSTech &nbsp;·&nbsp; Building agents that perceive, reason, and act
+  B.Eng CS @ SUSTech
 </p>
