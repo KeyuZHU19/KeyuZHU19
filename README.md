@@ -21,7 +21,3 @@
     <img src="https://img.shields.io/badge/@Kit__Key__-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
-
-<p align="center">
-  B.Eng CS @ SUSTech
-</p>
